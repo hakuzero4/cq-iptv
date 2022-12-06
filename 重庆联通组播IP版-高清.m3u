@@ -75,47 +75,47 @@ http://10.1.1.1:8225/udp/225.0.4.203:7980
 http://10.1.1.1:8225/udp/225.0.4.204:7980
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://10.1.1.1:8225/udp/225.0.4.187:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV新闻
 http://10.1.1.1:8225/udp/225.0.4.59:7980
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方",CQTV汽摩
+#EXTINF:-1 tvg-id="6573" tvg-name="CQTV汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="重庆",CQTV汽摩
 http://10.1.1.1:8225/udp/225.0.4.61:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV影视
+#EXTINF:-1 tvg-id="" tvg-name="CQTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV影视
 http://10.1.1.1:8225/udp/225.0.4.62:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV科教
+#EXTINF:-1 tvg-id="" tvg-name="CQTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV科教
 http://10.1.1.1:8225/udp/225.0.4.63:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV社会与法
+#EXTINF:-1 tvg-id="" tvg-name="CQTV社会与法" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV社会与法
 http://10.1.1.1:8225/udp/225.0.4.64:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV娱乐
+#EXTINF:-1 tvg-id="" tvg-name="CQTV娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV娱乐
 http://10.1.1.1:8225/udp/225.0.4.65:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV移动
+#EXTINF:-1 tvg-id="" tvg-name="CQTV移动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV移动
 http://10.1.1.1:8225/udp/225.0.4.68:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV时尚生活
+#EXTINF:-1 tvg-id="" tvg-name="CQTV时尚生活" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV时尚生活
 http://10.1.1.1:8225/udp/225.0.4.69:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV新农村
+#EXTINF:-1 tvg-id="" tvg-name="CQTV新农村" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV新农村
 http://10.1.1.1:8225/udp/225.0.4.70:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV少儿
+#EXTINF:-1 tvg-id="" tvg-name="CQTV少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV少儿
 http://10.1.1.1:8225/udp/225.0.4.71:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆新闻超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆新闻超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆新闻超高清
 http://10.1.1.1:8225/udp/225.0.4.188:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆社会与法超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆社会与法超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆社会与法超高清
 http://10.1.1.1:8225/udp/225.0.4.190:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆少儿超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆少儿超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆少儿超高清
 http://10.1.1.1:8225/udp/225.0.4.191:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆影视超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆影视超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆影视超高清
 http://10.1.1.1:8225/udp/225.0.4.192:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆科教超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆科教超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆科教超高清
 http://10.1.1.1:8225/udp/225.0.4.193:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆娱乐超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆娱乐超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆娱乐超高清
 http://10.1.1.1:8225/udp/225.0.4.194:7980
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方",重庆汽摩超高清
+#EXTINF:-1 tvg-id="6573" tvg-na重庆汽摩超高清me="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆汽摩超高清
 http://10.1.1.1:8225/udp/225.0.4.195:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆时尚生活超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆时尚生活超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆时尚生活超高清
 http://10.1.1.1:8225/udp/225.0.4.196:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",时尚购物超高清
+#EXTINF:-1 tvg-id="" tvg-name="时尚购物超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",时尚购物超高清
 http://10.1.1.1:8225/udp/225.0.4.198:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆新农村超高清
+#EXTINF:-1 tvg-id="" tvg-name="重庆新农村超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",重庆新农村超高清
 http://10.1.1.1:8225/udp/225.0.4.189:7980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CQTV移动超高清
+#EXTINF:-1 tvg-id="" tvg-name="CQTV移动超高清" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="本地",CQTV移动超高清
 http://10.1.1.1:8225/udp/225.0.4.215:7980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活
 http://10.1.1.1:8225/udp/225.0.4.164:7980
